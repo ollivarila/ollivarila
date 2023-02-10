@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ollivarila/ollivarila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently learning Azure and TypeScript
+- Trying to get a job 🤞
 
-Here are some ideas to get you started:
+## **Some of my projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Discord bot 🤖
+
+- [REPO](https://github.com/ollivarila/crea-discord-bot)
+- Discord bot with miscellanious commands
+- Website not deployed yet
+
+### MineBot 🤖
+
+- [REPO](https://github.com/ollivarila/minebot)
+- Bot to control a Container app on Azure
+
+### Shopping list app (Group project)
+
+- [REPO](https://github.com/ollivarila/group3-web-project)
+- [Website](https://shopping-list-app.fly.dev)
+- Full stack project
+
+### Restaurant Simulator
+
+- [REPO](https://github.com/JoonasMV/SimulaatioProjekti)
+- Java project
+
