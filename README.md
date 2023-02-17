@@ -14,7 +14,7 @@
 ### MineBot 🤖
 
 - [Azure functions version](https://github.com/ollivarila/minebot)
-- [Koa version] (https://github.com/ollivarila/minebot-koa)
+- [Koa version](https://github.com/ollivarila/minebot-koa)
 - Bot to control a Container app on Azure
 
 ### Shopping list app (Group project)
