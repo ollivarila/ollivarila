@@ -13,7 +13,8 @@
 
 ### MineBot 🤖
 
-- [REPO](https://github.com/ollivarila/minebot)
+- [Azure functions version](https://github.com/ollivarila/minebot)
+- [Koa version] (https://github.com/ollivarila/minebot-koa)
 - Bot to control a Container app on Azure
 
 ### Shopping list app (Group project)
@@ -22,7 +23,7 @@
 - [Website](https://shopping-list-app.fly.dev)
 - Full stack project
 
-### Restaurant Simulator
+### Restaurant Simulator (Group project)
 
 - [REPO](https://github.com/JoonasMV/SimulaatioProjekti)
 - Java project
