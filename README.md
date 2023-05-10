@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Currently learning Azure and TypeScript
-- Trying to get a job 🤞
+- Currently learning TypeScript and various backend technologies
+- Open for job opportunities 💼
 
 ## **Some of my projects**
 
