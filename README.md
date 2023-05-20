@@ -7,9 +7,9 @@
 
 ### MineBot 🤖
 
-- [Azure functions version](https://github.com/ollivarila/minebot)
-- [Koa version](https://github.com/ollivarila/minebot-koa)
-- Bot that controls a Container app on Azure
+- Bot that controls a Container app on Azure  
+[Azure functions version](https://github.com/ollivarila/minebot)  
+[Koa version](https://github.com/ollivarila/minebot-koa)
 
 ### Discord bot 🤖
 
@@ -30,9 +30,9 @@
 
 ### Shopping list app 🛒 (Group project)
 
-- Full stack project
-- [repo](https://github.com/ollivarila/group3-web-project)
-- [Website](https://shopping-list-app.fly.dev)
+- Full stack project  
+[repo](https://github.com/ollivarila/group3-web-project)  
+[Website](https://shopping-list-app.fly.dev)
 
 
 ### Restaurant Simulator 🍽 (Group project)
