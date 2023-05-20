@@ -5,25 +5,35 @@
 
 ## **Some of my projects**
 
-### Discord bot 🤖
-
-- [REPO](https://github.com/ollivarila/crea-discord-bot)
-- Discord bot with miscellanious commands
-- Website not deployed yet
-
 ### MineBot 🤖
 
 - [Azure functions version](https://github.com/ollivarila/minebot)
 - [Koa version](https://github.com/ollivarila/minebot-koa)
-- Bot to control a Container app on Azure
+- Bot that controls a Container app on Azure
 
-### Shopping list app (Group project)
+### Discord bot 🤖
+
+- [repo](https://github.com/ollivarila/crea-discord-bot)
+- Discord bot with miscellanious commands
+
+### Music Bot 🎵
+- [repo](https://github.com/ollivarila/music-bot)
+- My personal music bot for discord with simple commands
+
+### Trainer 💪 (Group project)
+
+- [Android project](https://github.com/JoonasMV/Trainer)
+- [Backend repo](https://github.com/ollivarila/Trainer-API)
+- Workout app that helps you track and share workouts
+- We also studied and practiced Agile development and DevOps during this project
+
+### Shopping list app 🛒 (Group project)
 
 - [REPO](https://github.com/ollivarila/group3-web-project)
 - [Website](https://shopping-list-app.fly.dev)
 - Full stack project
 
-### Restaurant Simulator (Group project)
+### Restaurant Simulator 🍽 (Group project)
 
 - [REPO](https://github.com/JoonasMV/SimulaatioProjekti)
 - Java project
