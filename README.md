@@ -7,7 +7,7 @@
 
 ### PostBuddy ⚙️
 
-- Social media dashboard for posting scheduled tweets
+- Social media dashboard for posting scheduled tweets  
 [repo](https://github.com/ollivarila/PostBuddy)
 
 
