@@ -7,7 +7,7 @@
 
 ### Zeus ⚡️
 
-- Dashboard for managing game servers (pods) on a Kubernetes cluster
+- Dashboard for managing game servers (pods) on a Kubernetes cluster  
 [website](https://github.com/ollivarila/zeus-website) [controller](https://github.com/ollivarila/zeus-controller)
 
 ### PostBuddy ⚙️
