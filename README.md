@@ -3,7 +3,7 @@
 - Currently learning Rust, various backend technologies and kubernetes
 - Open for job opportunities 💼
 
-## **Some of my projects**'
+## **Some of my projects**
 
 ### Zeus ⚡️
 
