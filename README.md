@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-- Currently learning TypeScript, various backend technologies and kubernetes
+- Currently learning Rust, various backend technologies and kubernetes
 - Open for job opportunities 💼
 
 ## **Some of my projects**'
+
+### Zeus ⚡️
+
+- Dashboard for managing game servers (pods) on a Kubernetes cluster
+[website](https://github.com/ollivarila/zeus-website) [controller](https://github.com/ollivarila/zeus-controller)
 
 ### PostBuddy ⚙️
 
