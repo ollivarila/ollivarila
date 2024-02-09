@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Currently learning Rust, various backend technologies and kubernetes
+- Currently learning full stack development with emphasis on backend.
 - Open for job opportunities 💼
 
 ## **Some of my projects**
