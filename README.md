@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Currently learning full stack development with emphasis on backend.
-- Open for job opportunities 💼
 
 ## **Some of my projects**
 
